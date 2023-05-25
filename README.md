@@ -1,14 +1,14 @@
-# Softwareentwicklung SoSe2022 - Aufgabe 05
+# Softwareentwicklung SoSe2023 - Aufgabe 05
 
 Das Aufgabenblatt adressiert weiterführende Aspekte der Objektorientierten Programmierung und der spezifischen Semantik unter C#.
 
-**Legen Sie für die Aufgaben 1 und 2 jeweils wechselnd die Rolle des Maintainers (Reviewer) und einen Developers fest und lösen Sie die Aufgaben entsprechend dieser Verteilung. Vermerken Sie die Aufteilung der Rollen in `team.config`** 
+**Legen Sie für die Aufgaben 1 und 2 jeweils wechselnd die Rolle des Maintainers (Reviewer) und einen Developers fest und lösen Sie die Aufgaben entsprechend dieser Verteilung.** 
 
 Der Einfachheit halber werden die beiden (unabhängigen) Aufgaben in einem Repository bearbeitet. Um die Implementierungen zu separieren sollten diese in den zwei Ordnern `Aufgabe_1` und `Aufgabe_2` erfolgen. Verwenden Sie zur Organisation der Zusammenarbeit die bereits bekannten GitHub - Features (Issues, separate Branches für die Aufgaben, Commits mit Referenzen auf Issues, Pull-Requests mit Reviews).
 
 ## Bearbeitungzeit
 
-SWE: 7.6. - 10.6. 2021 (Mm, BWM, ROB, BAI, BGIP, BBWL, BBL, MGIN)
+SWE: 5.6. - 9.6. 2023 (Mm, BWM, ROB, BAI, BGIP, BBWL, BBL, MGIN)
 
 ## 1. Vererbung, Überschreiben von Elementen, dynamische Bindung, Indexer
 
